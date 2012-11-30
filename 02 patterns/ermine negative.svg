@@ -266,7 +266,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="307.32613"
+     inkscape:cx="224.59464"
      inkscape:cy="217.7475"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -295,22 +295,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="shield"
-     style="display:inline">
-    <path
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccsccccc"
-       id="path16176"
-       d="m 2.06084,2.05145 0,332.89699 c 0,15.96313 12.80539,28.76854 28.76856,28.76854 l 89.37425,0 c 15.96313,0 28.76854,12.80541 28.76854,28.76853 0,-15.96312 12.93323,-28.76853 28.89639,-28.76853 l 77.73898,0 c 15.96313,0 28.76845,-12.80541 28.76854,-28.76854 l 0,-332.89699 z"
-       style="fill:none;stroke:#000000;stroke-width:4.0915246;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
-  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -1137,5 +1125,18 @@
         </g>
       </g>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="shield"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccsccccc"
+       id="path16176"
+       d="m 2.06084,2.05145 0,332.89699 c 0,15.96313 12.80539,28.76854 28.76856,28.76854 l 89.37425,0 c 15.96313,0 28.76854,12.80541 28.76854,28.76853 0,-15.96312 12.93323,-28.76853 28.89639,-28.76853 l 77.73898,0 c 15.96313,0 28.76845,-12.80541 28.76854,-28.76854 l 0,-332.89699 z"
+       style="fill:none;stroke:#000000;stroke-width:4.0915246;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
   </g>
 </svg>
